@@ -1,0 +1,53 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+.vite/
+
+# Static cache
+.cache/
+
+# Vite environment files
+.env
+.env.*.local
+
+# Editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# Test coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Session storage (local development specific)
+sessionStorage.json
+
+# Git merge conflict files
+*.orig
+
+# IntelliJ IDEA related files
+*.iml
+
+# Ignore all Mac system files and metadata
+._*
